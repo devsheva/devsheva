@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:  
-
 - 👋 Hi, I’m Mateo  
 - 🔭 I’m currently working on a team project for a Startup  
 - 👀 I’m interested in Backend made with .NET   
