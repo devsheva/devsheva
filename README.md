@@ -5,7 +5,7 @@
 - 👀 I’m interested in Backend made with .NET   
 - 🌱 I’m currently learning Cloud Development  
 - 📫 How to reach me   
-    - Twitter @holysheva
+    - Twitter @DevSheva
 
 <!--
 **DevSheva/DevSheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
