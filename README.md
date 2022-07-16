@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Mateo  
-- 🔭 I’m currently working on a team project for a Startup  
-- 👀 I’m interested in Backend made with .NET   
+- 🔭 I’m currently learning TypeScript
+- 👀 I’m interested in Backend made with .NET & NodeJs
 - 🌱 I’m currently learning Cloud Development  
 - 📫 How to reach me   
     - Twitter @DevSheva
