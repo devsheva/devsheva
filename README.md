@@ -3,10 +3,6 @@
 - 👋 Hi, I’m Mateo  
 - 🔭 I’m currently learning Ruby on Rails
 - 👀 I’m interested in Backend made with .NET & NodeJs
-- 📫 How to reach me   
-    - Twitter @DevSheva
-
-  
 
 ![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=devsheva&theme=tokyonight&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsheva)]  
