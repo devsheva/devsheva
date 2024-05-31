@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m Mateo  
-- 🔭 I’m currently learning Ruby on Rails
+- 👋 Hi, I’m Mateo
+- 🧑‍🏭 I'm working mainly with RubyOnRails and AWS
 - 👀 I’m interested in Backend made with .NET & NodeJs
 
 ![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=devsheva&theme=tokyonight&show_icons=true)  
