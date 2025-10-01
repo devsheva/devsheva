@@ -13,11 +13,12 @@ I build scalable applications using **Ruby on Rails** and **AWS Cloud Services**
 
 ---
 
-### ☁️ Cloud & DevOps Skills  
+### ☁️ Cloud, DevOps & Tools  
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) 
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
@@ -38,8 +39,7 @@ I build scalable applications using **Ruby on Rails** and **AWS Cloud Services**
 
 **Testing (TDD/BDD)**  
 ![RSpec](https://img.shields.io/badge/RSpec-FF0000?style=for-the-badge&logo=ruby&logoColor=white) 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
 
 ---
 
@@ -66,7 +66,7 @@ I build scalable applications using **Ruby on Rails** and **AWS Cloud Services**
 ---
 
 ### 🏅 Certifications  
-- 📚 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/658a4322-a152-4081-95dd-f2f6a6058432/public_url)
+- 📚 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/658a4322-a152-4081-95dd-f2f6a6058432/public_url)  
 
 ---
 
